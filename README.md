@@ -6,7 +6,8 @@ TheHCC-MSC was developed to classify HCC into 3 subtypes (C1-C3) using gene expr
 
 Notably, drug response analysis based on molecular subtyping revealed distinct therapeutic sensitivities. The C1 subtype showed marked sensitivity to dasatinib and a superior response rate to PD-1 therapy (75% response rate). The C3 subtype exhibited heightened vulnerability to luminespib (an HSP90 inhibitor) and rapamycin (mTOR inhibitor). Transcatheter arterial chemoembolization (TACE) achieved the highest response rate in this subgroup (75.9% response rate).
 
-HepatoInsight Platform Quick Start Guide
+<br>
+HepatoInsight Platform Quick Start Guide: 
 
 1. Download the software package ( [HepatoInsightPlatform.zip](https://github.com/bioinfoHCC/HepatoInsightPlatform/releases/download/HepatoInsightPlatform/HepatoInsightPlatform.zip)  frome Releases )
 
