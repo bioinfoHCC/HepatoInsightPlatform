@@ -8,7 +8,7 @@ Notably, drug response analysis based on molecular subtyping revealed distinct t
 
 HepatoInsight Platform Quick Start Guide
 
-1. Download the software package ( HepatoInsightPlatform.zip  frome Releases )
+1. Download the software package ( [HepatoInsightPlatform.zip](https://github.com/bioinfoHCC/HepatoInsightPlatform/releases/download/HepatoInsightPlatform/HepatoInsightPlatform.zip)  frome Releases )
 
 1. Extract the archive using tools like 7-Zip or WinRAR
 
